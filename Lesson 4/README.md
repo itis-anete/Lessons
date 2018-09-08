@@ -88,7 +88,7 @@ db.Table<Dog>("db_dogs")
 ![Unit of work pattern](https://www.codeproject.com/KB/aspnet/581487/d5.JPG "Unit of work pattern")
 
 
-# Доп материалы №5<a name="add5></a>
+# Доп материалы №5<a name="add5"></a>
 ````C#
 public abstract class ActiveRecord<T> where T: EntityWithId, class, new()
 {
