@@ -37,7 +37,4 @@
  - Реализовать модель данных через ORM
  
 # Доп. материалы №1
- - Dapper
- - LINQ to DB
- - Entity Framework
- - NHibernate
+![Database Schema](ADO.NET)
