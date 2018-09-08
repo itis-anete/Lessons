@@ -3,14 +3,13 @@
    - Интерфейсы доступа к данным (OLE DB, ODBC)
    - Источники данных
    - System.Data - [ADO.NET](#add1)
-   - Data Mapper (Dapper)
+   - Data Mapper ([Dapper](#add2))
    - Active Record
    - Unit of work
  
-# Задание №3
- - Выбрать модель данных
- - Объяснить выбор модели данных
- - Реализовать модель данных через ORM
+# Задание №4
+ - Сделать запрос в БД через ADO.NET
+ - Спроектировать data mapper
  
 # Доп. материалы №1<a name="add1"></a>
 ![Database Schema](ADO.NET)
