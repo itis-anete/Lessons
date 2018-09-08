@@ -21,19 +21,7 @@
    - ER-модель
    - EAV-модель (Entity–attribute–value)
    - Схема звезды
- - # Объектная модель БД
-   - ADO.NET
-   - Active Record
-   - Data Mapper
-   - Unit of work
- 
+  
 # Задание №3
  - Выбрать модель данных
  - Объяснить выбор модели данных
- - Реализовать модель данных через ORM
- 
-# Доп. материалы №1
- - Dapper
- - LINQ to DB
- - Entity Framework
- - NHibernate
