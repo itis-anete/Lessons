@@ -33,18 +33,6 @@
    - Связывание значений
      - IModelBinder
      - IModelBinderProvider
-   - Валидация модели
-     - Состояние валидации
-     - Атрибуты валидации
-   - Неявное управление валидацией
-     - Создание своего атрибута валидации
-     - Самовалидирующаяся модель
-   - Явное управление валидацией
-     - IModelValidator
-     - IModelValidatorProvider
-     - IObjectModelValidator
-     - IValidationStrategy
-     - IPropertyValidationFilter
      
    
 # Доп. материалы №1
