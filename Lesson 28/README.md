@@ -1,0 +1,19 @@
+
+ - # JavaScript - Особое
+   - IIFE
+   - модули
+   - сравнения
+   - полифилы
+   - замыкания
+   - обработка ошибок
+   - освобождение памяти
+ - # JavaScript - ES6
+   - let, const
+   - arrow functions
+   - spread/rest
+   - obj literals
+   - super
+   - symbol
+   - итераторы
+   - генераторы
+   - промисы
